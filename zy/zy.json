@@ -201,18 +201,6 @@
     "reverseOrder": true
   },
   {
-    "key": "CpVeAG",
-    "id": 41,
-    "name": "百度云资源",
-    "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml/",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "切片资源",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": true
-  },
-  {
     "key": "btu2dc",
     "id": 42,
     "name": "天空资源",
