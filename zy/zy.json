@@ -333,18 +333,6 @@
     "reverseOrder": false
   },
   {
-    "key": "F51CA730C0535410581BC96B43DE86EB",
-    "name": "百度云资源",
-    "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml",
-    "download": "",
-    "parseApi": "",
-    "isActive": true,
-    "group": "导入",
-    "id": 53,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
     "key": "497F92C9D7320652A6B06F2CC7570ABA",
     "name": "12.快播资源",
     "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
@@ -394,17 +382,6 @@
     "key": "8111zy",
     "name": "27.天空资源",
     "api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
-    "download": "",
-    "isActive": true,
-    "group": "导入",
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "id": 59,
-    "key": "8110zy",
-    "name": "25.百度云资源",
-    "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml",
     "download": "",
     "isActive": true,
     "group": "导入",
