@@ -375,7 +375,7 @@
     "api": "http://bttcj.com/inc/sapi.php",
     "download": "",
     "isActive": true,
-    "group": "导入",
+    "group": "福利",
     "status": "可用",
     "reverseOrder": false
   },
@@ -386,7 +386,7 @@
     "api": "http://www.ggmmzy.com:9999/inc/xml",
     "download": "",
     "isActive": true,
-    "group": "导入",
+    "group": "福利",
     "status": "可用",
     "reverseOrder": false
   },
@@ -397,7 +397,7 @@
     "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
     "download": "",
     "isActive": true,
-    "group": "导入",
+    "group": "福利",
     "status": "可用",
     "reverseOrder": false
   },
